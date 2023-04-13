@@ -1,4 +1,3 @@
-pip install libportaudio2
 import streamlit as st
 import pandas as pd
 import openai
