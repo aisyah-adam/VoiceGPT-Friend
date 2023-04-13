@@ -11,7 +11,7 @@ messages = [{"role": "system", "content": "You are a helpful assistant."}]
 def main():
     while True:
         record_audio_manual(input_audio_filename)
-        transcription = transcribe_audio(input_audio_filename)             # if we want to speak in another language  we would use 'translate_audio' function
+        transcription = transcribe_audio(input_audio_filename)
 
         messages.append({"role": "user", "content": transcription['text']})
         print(f"\n- Me: {transcription['text']}")
