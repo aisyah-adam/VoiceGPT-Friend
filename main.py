@@ -4,7 +4,7 @@ import openai
 from text_speech_utils import *
 
 # Set the GPT-3 API key
-openai.api_key = "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" # Enter your personal API key here
+openai.api_key = "your-apikey-goes-here" # Enter your personal API key here!!
 input_audio_filename = 'input.wav'
 output_audio_filename = 'chatgpt_response.wav'
 output_conversation_filename = 'ChatGPT_conversation.txt'
