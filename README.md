@@ -4,9 +4,9 @@ This is a simple app based on `gpt-3.5-turbo` and deployed with `Streamlit`.
 
 Instructions
 ---
-Manually introduce your own OpenAI API key inside openai.api_key = "your-apikey-goes-here"
+Manually introduce your own OpenAI api key inside openai.api_key = "your-apikey-goes-here"
 
-You can retrieve the API key from https://platform.openai.com/account/api-keys
+You can retrieve the api key from https://platform.openai.com/account/api-keys
 
 Run `streamlit run main.py` in the terminal to execute the chatbot on a local host, using the `streamlit` library
 
