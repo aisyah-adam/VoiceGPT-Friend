@@ -1,6 +1,6 @@
 # VoiceGPT-Friend 😸
 
-This is a simple app based on GPT `gpt-3.5-turbo` and deployed with `Streamlit`.
+This is a simple app based on `gpt-3.5-turbo` and deployed with `Streamlit`.
 
 Instructions
 ---
