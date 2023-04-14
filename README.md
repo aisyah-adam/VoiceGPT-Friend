@@ -4,7 +4,7 @@ This is a simple app based on `gpt-3.5-turbo` and deployed with `Streamlit`.
 
 Instructions
 ---
-Manually introduce your own OpenAI API key inside openai.api_key = "your-apikey-goes-here".
+Manually introduce your own OpenAI API key inside openai.api_key = "your-apikey-goes-here"
 
 You can retrieve the API key from https://platform.openai.com/account/api-keys
 
