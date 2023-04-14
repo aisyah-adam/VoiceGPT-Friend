@@ -10,4 +10,5 @@ You can retrieve the API key from https://platform.openai.com/account/api-keys
 
 Run `streamlit run main.py` in the terminal to execute the chatbot on a local host, using the `streamlit` library
 
+---
 CREDITS: https://github.com/PabloCanovas/chatgpt-whisper-streamlit-voice-assistant
