@@ -1,4 +1,4 @@
-# VoiceGPT-Friend 😸
+# BC3415 VoiceGPT-Friend 😸
 
 This is a simple app based on `gpt-3.5-turbo` and deployed with `Streamlit`.
 
